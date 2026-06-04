@@ -1,5 +1,5 @@
 # Quantum-TSF
-This repository contains code for the Smart-Grid Load Forecasting with Variational Quantum Algorithms, Published in IEEE Transactions on Consumer Electronics in 2026 ....
+This repository contains code for the "Smart-Grid Load Forecasting with Variational Quantum Algorithms", Published in the IEEE Transactions on Consumer Electronics in 2026 ....
 
 Library dependencies with their exact versions are detailed in Section IV-A of the manuscript.
 
